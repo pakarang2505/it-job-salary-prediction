@@ -19,5 +19,8 @@ This project applies supervised learning models to predict IT salaries in Thaila
 ## Technologies  
 Python, Pandas, Matplotlib, Scikit-learn  
 
-## Visualizations  
-* top5_jobs.png *  
+## Visualizations
+![Job Trends Chart](top5_jobs.png)
+![Programming Languages Trends Chart](top5_languages.png)
+
+  
